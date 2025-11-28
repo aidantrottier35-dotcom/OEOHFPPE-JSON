@@ -1,0 +1,72 @@
+<DATA>
+
+	<ROW>
+		<project_id>2</project_id>
+		<project_name>Smart Pier Redevelopment</project_name>
+		<budget>42200000.00</budget>
+		<status>In Progress</status>
+		<start_date>2023-07-15</start_date>
+		<completion_date>2026-11-30</completion_date>
+		<province_name>Ontario</province_name>
+		<contractor_name>WestCoast DigiWorks</contractor_name>
+		<hq_city>Montreal</hq_city>
+		<assignment_date>2023-03-15</assignment_date>
+		<contract_amount>27430000.00</contract_amount>
+	</ROW>
+
+	<ROW>
+		<project_id>5</project_id>
+		<project_name>Saskatchewan Virtual Healthcare Network Upgrade</project_name>
+		<budget>7200000.00</budget>
+		<status>In Progress</status>
+		<start_date>2024-02-10</start_date>
+		<completion_date>2027-06-15</completion_date>
+		<province_name>Saskatchewan</province_name>
+		<contractor_name>Northern Star Civil Group</contractor_name>
+		<hq_city>Winnipeg</hq_city>
+		<assignment_date>2023-10-10</assignment_date>
+		<contract_amount>5040000.00</contract_amount>
+	</ROW>
+
+	<ROW>
+		<project_id>8</project_id>
+		<project_name>Calgary Geothermal Heating Pilot</project_name>
+		<budget>28900000.00</budget>
+		<status>In Progress</status>
+		<start_date>2022-11-02</start_date>
+		<completion_date>2027-04-10</completion_date>
+		<province_name>Alberta</province_name>
+		<contractor_name>Prairiewave Contractors Inc.</contractor_name>
+		<hq_city>Saskatoon</hq_city>
+		<assignment_date>2022-06-02</assignment_date>
+		<contract_amount>23120000.00</contract_amount>
+	</ROW>
+
+	<ROW>
+		<project_id>13</project_id>
+		<project_name>Toronto High-Density EV Charging Corridors</project_name>
+		<budget>55800000.00</budget>
+		<status>In Progress</status>
+		<start_date>2024-11-05</start_date>
+		<completion_date>2028-04-22</completion_date>
+		<province_name>Ontario</province_name>
+		<contractor_name>MaplePeak Engineering Ltd.</contractor_name>
+		<hq_city>Toronto</hq_city>
+		<assignment_date>2024-06-05</assignment_date>
+		<contract_amount>33480000.00</contract_amount>
+	</ROW>
+
+	<ROW>
+		<project_id>14</project_id>
+		<project_name>Quebec Offshore Wind Energy Port</project_name>
+		<budget>148900000.00</budget>
+		<status>In Progress</status>
+		<start_date>2025-09-01</start_date>
+		<completion_date>2031-05-10</completion_date>
+		<province_name>Quebec</province_name>
+		<contractor_name>Northern Star Civil Group</contractor_name>
+		<hq_city>Winnipeg</hq_city>
+		<assignment_date>2025-04-01</assignment_date>
+		<contract_amount>111675000.00</contract_amount>
+	</ROW>
+</DATA>
