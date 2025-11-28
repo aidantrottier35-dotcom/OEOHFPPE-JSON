@@ -1,0 +1,93 @@
+[
+	{
+		"project_id" : 1,
+		"project_name" : "Northern Lights Transit Hub",
+		"budget" : 18500000.00,
+		"status" : "Planned",
+		"start_date" : "2026-03-01",
+		"completion_date" : "2029-09-30",
+		"province_name" : "Manitoba",
+		"contractor_name" : "Prairiewave Contractors Inc.",
+		"hq_city" : "Saskatoon",
+		"assignment_date" : "2025-10-01",
+		"contract_amount" : 12950000.00
+	},
+	{
+		"project_id" : 3,
+		"project_name" : "Halifax Coastal Flood Barrier Phase 2",
+		"budget" : 97500000.00,
+		"status" : "Planned",
+		"start_date" : "2025-05-20",
+		"completion_date" : "2032-08-01",
+		"province_name" : "Nova Scotia",
+		"contractor_name" : "MaplePeak Engineering Ltd.",
+		"hq_city" : "Toronto",
+		"assignment_date" : "2024-12-01",
+		"contract_amount" : 73125000.00
+	},
+	{
+		"project_id" : 7,
+		"project_name" : "Research Water Lab",
+		"budget" : 5800000.00,
+		"status" : "Planned",
+		"start_date" : "2026-06-01",
+		"completion_date" : "2028-03-01",
+		"province_name" : "Nova Scotia",
+		"contractor_name" : "Borealis Arctic Construction",
+		"hq_city" : "Vancouver",
+		"assignment_date" : "2025-12-01",
+		"contract_amount" : 3480000.00
+	},
+	{
+		"project_id" : 9,
+		"project_name" : "Windsor Cross-Border EV Logistics Terminal",
+		"budget" : 83500000.00,
+		"status" : "Planned",
+		"start_date" : "2026-01-15",
+		"completion_date" : "2030-12-15",
+		"province_name" : "Ontario",
+		"contractor_name" : "Borealis Arctic Construction",
+		"hq_city" : "Vancouver",
+		"assignment_date" : "2025-09-15",
+		"contract_amount" : 62625000.00
+	},
+	{
+		"project_id" : 10,
+		"project_name" : "Nunavut Autonomous Snow-Clearing System",
+		"budget" : 9400000.00,
+		"status" : "Planned",
+		"start_date" : "2026-09-01",
+		"completion_date" : "2029-10-01",
+		"province_name" : "Nunavut",
+		"contractor_name" : "MaplePeak Engineering Ltd.",
+		"hq_city" : "Toronto",
+		"assignment_date" : "2026-04-01",
+		"contract_amount" : 6580000.00
+	},
+	{
+		"project_id" : 11,
+		"project_name" : "Arctic Satellite Communications Hub",
+		"budget" : 68500000.00,
+		"status" : "Planned",
+		"start_date" : "2027-03-01",
+		"completion_date" : "2032-02-15",
+		"province_name" : "Nunavut",
+		"contractor_name" : "Borealis Arctic Construction",
+		"hq_city" : "Vancouver",
+		"assignment_date" : "2026-10-01",
+		"contract_amount" : 47950000.00
+	},
+	{
+		"project_id" : 12,
+		"project_name" : "Regina Waste-to-Clean-Energy Facility",
+		"budget" : 24200000.00,
+		"status" : "Planned",
+		"start_date" : "2026-10-15",
+		"completion_date" : "2030-06-01",
+		"province_name" : "Saskatchewan",
+		"contractor_name" : "Prairiewave Contractors Inc.",
+		"hq_city" : "Saskatoon",
+		"assignment_date" : "2026-05-15",
+		"contract_amount" : 15730000.00
+	}
+]
